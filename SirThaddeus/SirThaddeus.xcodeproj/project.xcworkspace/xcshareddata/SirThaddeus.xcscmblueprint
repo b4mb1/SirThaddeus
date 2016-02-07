@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++7055D8C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++7055D8C" : 0,
+    "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++6F0BD18" : 0,
+    "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++9A091AF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2042C44C-CF7D-475F-B2B3-D8C1BBA47B53",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++7055D8C" : "SirThaddeus\/",
+    "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++6F0BD18" : "",
+    "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++9A091AF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SirThaddeus",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SirThaddeus.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github_bambi:b4mb1\/SirThaddues.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++6F0BD18"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:b4mb1\/SirThaddeus.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++7055D8C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:b4mb1\/SirThaddeus.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9176DA24287904333A0F2A3B5D5E6C6CF70814E5+++9A091AF"
+    }
+  ]
+}

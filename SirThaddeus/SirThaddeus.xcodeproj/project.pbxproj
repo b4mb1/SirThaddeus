@@ -16,6 +16,7 @@
 		C31CE5DA1C5ACB5F00B5B348 /* SirThaddeusTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C31CE5D91C5ACB5F00B5B348 /* SirThaddeusTests.m */; };
 		C31CE5E51C5ACB5F00B5B348 /* SirThaddeusUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C31CE5E41C5ACB5F00B5B348 /* SirThaddeusUITests.m */; };
 		C31CE5F31C5ACC7400B5B348 /* pTadek.txt in Resources */ = {isa = PBXBuildFile; fileRef = C31CE5F21C5ACC7400B5B348 /* pTadek.txt */; };
+		C36230DD1C676E6D007EF847 /* customCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C36230DC1C676E6D007EF847 /* customCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		C31CE5E41C5ACB5F00B5B348 /* SirThaddeusUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SirThaddeusUITests.m; sourceTree = "<group>"; };
 		C31CE5E61C5ACB5F00B5B348 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C31CE5F21C5ACC7400B5B348 /* pTadek.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pTadek.txt; sourceTree = "<group>"; };
+		C36230DB1C676E6D007EF847 /* customCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = customCell.h; sourceTree = "<group>"; };
+		C36230DC1C676E6D007EF847 /* customCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = customCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +110,8 @@
 				C31CE5C31C5ACB5E00B5B348 /* AppDelegate.m */,
 				C31CE5C51C5ACB5E00B5B348 /* ViewController.h */,
 				C31CE5C61C5ACB5E00B5B348 /* ViewController.m */,
+				C36230DB1C676E6D007EF847 /* customCell.h */,
+				C36230DC1C676E6D007EF847 /* customCell.m */,
 				C31CE5C81C5ACB5E00B5B348 /* Main.storyboard */,
 				C31CE5F21C5ACC7400B5B348 /* pTadek.txt */,
 				C31CE5CB1C5ACB5E00B5B348 /* Assets.xcassets */,
@@ -279,6 +284,7 @@
 			files = (
 				C31CE5C71C5ACB5E00B5B348 /* ViewController.m in Sources */,
 				C31CE5C41C5ACB5E00B5B348 /* AppDelegate.m in Sources */,
+				C36230DD1C676E6D007EF847 /* customCell.m in Sources */,
 				C31CE5C11C5ACB5E00B5B348 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -424,6 +430,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.b4mb1-Corp.SirThaddeus";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -435,6 +442,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.b4mb1-Corp.SirThaddeus";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -505,6 +513,7 @@
 				C31CE5EB1C5ACB5F00B5B348 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C31CE5EC1C5ACB5F00B5B348 /* Build configuration list for PBXNativeTarget "SirThaddeusTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +522,7 @@
 				C31CE5EE1C5ACB5F00B5B348 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C31CE5EF1C5ACB5F00B5B348 /* Build configuration list for PBXNativeTarget "SirThaddeusUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +531,7 @@
 				C31CE5F11C5ACB5F00B5B348 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
